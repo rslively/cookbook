@@ -1,4 +1,4 @@
 New File
-Second line
+The Second line
 The Third line
 Yet another line
